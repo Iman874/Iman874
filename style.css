@@ -1,0 +1,22 @@
+/*
+style pada button
+*/
+button
+	{
+	font-family: sans-serif;
+	font-size: 20px;
+	background: royalblue;
+	color: whitesmoke;
+	border: whitesmoke; 5px solid;
+	border-radius: 5px;
+	padding: 5px 15px;
+	margin-top: 5px;
+	}
+
+	{
+	padding: 2px 10px;
+	}
+
+nav {
+	color: royalblue;
+}
