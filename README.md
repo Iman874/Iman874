@@ -17,16 +17,16 @@
 ## 🧰 Highlight Project Portfolio
 
 ### **Sistem Sensus Harian RS (Laravel Web App)**
-Aplikasi berbasis Laravel untuk mengelola data harian pasien rumah sakit. Mendukung role: perawat, petugas indikator, dan kepala instalasi. Fitur utama meliputi pendaftaran pasien, manajemen bangsal/tempat tidur, rekap indikator kinerja seperti BOR, AvLOS, TOI, BTO, serta grafik Barber‑Johnson untuk analisis visual :contentReference[oaicite:1]{index=1}.
+Aplikasi berbasis Laravel untuk mengelola data harian pasien rumah sakit. Mendukung role: perawat, petugas indikator, dan kepala instalasi. Fitur utama meliputi pendaftaran pasien, manajemen bangsal/tempat tidur, rekap indikator kinerja seperti BOR, AvLOS, TOI, BTO, serta grafik Barber‑Johnson untuk analisis visual.
 
 ### **Uu_Chain (Blockchain + Flutter Demo)**
-Sistem pencatatan Undang‑Undang (UU) berbasis blockchain lokal menggunakan Hardhat dan Flutter. Admin bisa mencatat UU baru (#judul, isi, tanggal, hash), pengguna dapat memverifikasi PDF UU sesuai hash jaringan. Cocok sebagai demo edukasi smart contract lokal :contentReference[oaicite:2]{index=2}.
+Sistem pencatatan Undang‑Undang (UU) berbasis blockchain lokal menggunakan Hardhat dan Flutter. Admin bisa mencatat UU baru (#judul, isi, tanggal, hash), pengguna dapat memverifikasi PDF UU sesuai hash jaringan. Cocok sebagai demo edukasi smart contract lokal.
 
 ### **MPLJJ25‑138‑KEL‑1 (Flutter + Laravel + Flask)**
-Proyek kelas yang menggabungkan Flutter, Laravel, dan Flask-Roboflow untuk sistem pelaporan kerusakan sekolah berbasis AI. Mencakup aplikasi mobile, backend API, dan model AI klasifikasi gambar:contentReference[oaicite:3]{index=3}.
+Proyek kelas yang menggabungkan Flutter, Laravel, dan Flask-Roboflow untuk sistem pelaporan kerusakan sekolah berbasis AI. Mencakup aplikasi mobile, backend API, dan model AI klasifikasi gambar.
 
 ### **Game‑Tanks‑Demo‑Unity (Unity C# Tank Game Demo)**
-Proyek demo permainan tank sederhana di Unity fokus pada kontrol pemain, AI musuh, serta visual dan audio efek. Cocok untuk belajar arsitektur game berbasis Unity dengan C# :contentReference[oaicite:4]{index=4}.
+Proyek demo permainan tank sederhana di Unity fokus pada kontrol pemain, AI musuh, serta visual dan audio efek. Cocok untuk belajar arsitektur game berbasis Unity dengan C#.
 
 ---
 
