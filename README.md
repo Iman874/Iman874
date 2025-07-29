@@ -1,7 +1,7 @@
 <h1 align="center">Hi There! 👋</h1>
 
 <p align="center">
-  <b>A passionate Fullstack Mobile & Web Developer from Indonesia 🇮🇩</b>
+  <b>A passionate Fullstack Mobile & Web Developer and AI Devoloper from Indonesia 🇮🇩</b>
 </p>
 
 ---
@@ -44,13 +44,13 @@ Proyek demo permainan tank sederhana di Unity fokus pada kontrol pemain, AI musu
 ## 🌐 Connect with Me
 
 - ✉️ Email: rosuliman907@gmail.com  
-- 🔗 LinkedIn: linkedin.com/in/rosuliman
+- 🔗 LinkedIn: www.linkedin.com/in/rosul-iman-938a97200
 
 ---
 
 ## 🎯 Fun Fact
 
-> I love coding as much as I love bad jokes. Let's build something fun!
+> Coding is a problem, life is a problem. We have to solve problems.
 
 ---
 
