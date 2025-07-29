@@ -43,9 +43,8 @@ Proyek demo permainan tank sederhana di Unity fokus pada kontrol pemain, AI musu
 
 ## 🌐 Connect with Me
 
-- ✉️ Email: d4narp@gmail.com  
-- 🔗 LinkedIn: linkedin.com/in/d4narp  
-- 📸 Instagram / Medium: @d4narp  
+- ✉️ Email: rosuliman907@gmail.com  
+- 🔗 LinkedIn: linkedin.com/in/rosuliman
 
 ---
 
