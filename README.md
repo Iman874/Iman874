@@ -1,0 +1,68 @@
+<h1 align="center">Hi There! 👋</h1>
+
+<p align="center">
+  <b>A passionate Fullstack Mobile & Web Developer from Indonesia 🇮🇩</b>
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🌱 Currently growing in Flutter, Laravel, Blockchain, Unity, & AI Development
+- 💼 I build production-ready apps, smart contract demos, and interactive games
+- 💬 Always happy to chat about mobile/web, blockchain, or game dev topics!
+
+---
+
+## 🧰 Highlight Project Portfolio
+
+### **Sistem Sensus Harian RS (Laravel Web App)**
+Aplikasi berbasis Laravel untuk mengelola data harian pasien rumah sakit. Mendukung role: perawat, petugas indikator, dan kepala instalasi. Fitur utama meliputi pendaftaran pasien, manajemen bangsal/tempat tidur, rekap indikator kinerja seperti BOR, AvLOS, TOI, BTO, serta grafik Barber‑Johnson untuk analisis visual :contentReference[oaicite:1]{index=1}.
+
+### **Uu_Chain (Blockchain + Flutter Demo)**
+Sistem pencatatan Undang‑Undang (UU) berbasis blockchain lokal menggunakan Hardhat dan Flutter. Admin bisa mencatat UU baru (#judul, isi, tanggal, hash), pengguna dapat memverifikasi PDF UU sesuai hash jaringan. Cocok sebagai demo edukasi smart contract lokal :contentReference[oaicite:2]{index=2}.
+
+### **MPLJJ25‑138‑KEL‑1 (Flutter + Laravel + Flask)**
+Proyek kelas yang menggabungkan Flutter, Laravel, dan Flask-Roboflow untuk sistem pelaporan kerusakan sekolah berbasis AI. Mencakup aplikasi mobile, backend API, dan model AI klasifikasi gambar:contentReference[oaicite:3]{index=3}.
+
+### **Game‑Tanks‑Demo‑Unity (Unity C# Tank Game Demo)**
+Proyek demo permainan tank sederhana di Unity fokus pada kontrol pemain, AI musuh, serta visual dan audio efek. Cocok untuk belajar arsitektur game berbasis Unity dengan C# :contentReference[oaicite:4]{index=4}.
+
+---
+
+## 📊 Statistik Bahasa Pemrograman
+
+- Laravel / PHP
+- JavaScript
+- Dart / Flutter
+- C#
+- C++ / CMake
+- Blade Templating
+
+---
+
+## 🌐 Connect with Me
+
+- ✉️ Email: d4narp@gmail.com  
+- 🔗 LinkedIn: linkedin.com/in/d4narp  
+- 📸 Instagram / Medium: @d4narp  
+
+---
+
+## 🎯 Fun Fact
+
+> I love coding as much as I love bad jokes. Let's build something fun!
+
+---
+
+## 💡 Teknologi & Tools Pilihan
+
+- **Backend & Web:** Laravel, PHP, Blade, Tailwind, Chart JS
+- **Mobile & Frontend:** Flutter, Dart
+- **Blockchain & Smart Contract:** Solidity, Hardhat, ethers.js
+- **Game Development:** Unity 3D, C#
+- **CI/CD / Versioning:** Git, GitHub Actions, PHP Unit, Vite
+
+---
+
+> 🔥 “Build software like you build a story—with meaning and creativity in every line.”
