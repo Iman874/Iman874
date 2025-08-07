@@ -22,7 +22,7 @@ Aplikasi berbasis Laravel untuk mengelola data harian pasien rumah sakit. Menduk
 ### **Uu_Chain (Blockchain + Flutter Demo)**
 Sistem pencatatan Undang‑Undang (UU) berbasis blockchain lokal menggunakan Hardhat dan Flutter. Admin bisa mencatat UU baru (#judul, isi, tanggal, hash), pengguna dapat memverifikasi PDF UU sesuai hash jaringan. Cocok sebagai demo edukasi smart contract lokal.
 
-### **MPLJJ25‑138‑KEL‑1 (Flutter + Laravel + Flask)**
+### **MPLJJ25‑138‑KEL‑1 (Flutter + Laravel + RoboFlow)**
 Proyek kelas yang menggabungkan Flutter, Laravel, dan Flask-Roboflow untuk sistem pelaporan kerusakan sekolah berbasis AI. Mencakup aplikasi mobile, backend API, dan model AI klasifikasi gambar.
 
 ### **Game‑Tanks‑Demo‑Unity (Unity C# Tank Game Demo)**
