@@ -25,8 +25,8 @@ Sistem pencatatan Undang‑Undang (UU) berbasis blockchain lokal menggunakan Har
 ### **MPLJJ25‑138‑KEL‑1 (Flutter + Laravel + RoboFlow)**
 Proyek kelas yang menggabungkan Flutter, Laravel, dan Flask-Roboflow untuk sistem pelaporan kerusakan sekolah berbasis AI. Mencakup aplikasi mobile, backend API, dan model AI klasifikasi gambar.
 
-### **Game‑Tanks‑Demo‑Unity (Unity C# Tank Game Demo)**
-Proyek demo permainan tank sederhana di Unity fokus pada kontrol pemain, AI musuh, serta visual dan audio efek. Cocok untuk belajar arsitektur game berbasis Unity dengan C#.
+### **Game Mobile Grodelos (Unity 2D Mobile)**
+Gredelos (mobile-game-gredelos) adalah proyek game mobile edukasi berbasis Unity. Project ini berfokus pada kumpulan level mekanisme permainan (drag, swipe, click) dengan audio VO, UI interaktif, dan manajemen progress pemain. Dibuat sebagai produk utama dalam PKM RSH UNP Juli-Oktober 2025
 
 ---
 
@@ -38,6 +38,7 @@ Proyek demo permainan tank sederhana di Unity fokus pada kontrol pemain, AI musu
 - C#
 - C++ / CMake
 - Blade Templating
+- Unity
 
 ---
 
@@ -59,7 +60,7 @@ Proyek demo permainan tank sederhana di Unity fokus pada kontrol pemain, AI musu
 - **Backend & Web:** Laravel, PHP, Blade, Tailwind, Chart JS
 - **Mobile & Frontend:** Flutter, Dart
 - **Blockchain & Smart Contract:** Solidity, Hardhat, ethers.js
-- **Game Development:** Unity 3D, C#
+- **Game Development:** Unity 2D, C#
 - **CI/CD / Versioning:** Git, GitHub Actions, PHP Unit, Vite
 
 ---
