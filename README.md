@@ -16,7 +16,7 @@
 
 ## 🧰 Highlight Project Portfolio
 
-### **AI-Demo-SEA (Laravel + Flutter + AI Workflow)***
+### **AI-Demo-SEA (Laravel + Flutter + AI Workflow)**
 
 SEA App adalah demonstrasi lengkap Smart Education Assistant (SEA) yang menggabungkan Laravel 11, Flutter, dan layanan AI berbasis Gemini. Proyek ini menampilkan alur belajar modern dengan kelas, materi, kuis, diskusi, serta modul AI seperti student chat, check understanding, dan AI-generated groups/questions. Dirancang untuk arsitektur local-first dengan kontrak API stabil yang digunakan oleh Flutter dan web. Dibuat sebagai produk uji coba project yang di bimbing oleh Prof. Dr.. Muhammad Anwar, S.Pd., M.T.
 
