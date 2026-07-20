@@ -1,72 +1,76 @@
-<h1 align="center">Hi There! 👋</h1>
+<div align="center">
+  <h1>👋 Rosul Iman</h1>
+  <p>
+    <b>Fullstack Developer · AI Enthusiast · Game Creator</b><br>
+    🇮🇩 Indonesia
+  </p>
+</div>
 
 <p align="center">
-  <b>A passionate Fullstack Mobile & Web Developer and AI Devoloper from Indonesia 🇮🇩</b>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" alt="Unity">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" alt="Solidity">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JS">
 </p>
 
----
+<br>
 
-## 🚀 About Me
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=117097805&activity_type=all" target="_blank" style="display: block">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=117097805&activity_type=all&image_size=auto&color_scheme=dark">
+          <img alt="Currently Working On" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=117097805&activity_type=all&image_size=auto&color_scheme=light" width="100%">
+        </picture>
+      </a>
+      <br>
+      <sub>🔥 What I'm working on</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=117097805&period=all_times" target="_blank" style="display: block">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=117097805&period=all_times&image_size=auto&color_scheme=dark">
+          <img alt="Contribution Time Distribution" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=117097805&period=all_times&image_size=auto&color_scheme=light" width="100%">
+        </picture>
+      </a>
+      <br>
+      <sub>🕐 When I code</sub>
+    </td>
+  </tr>
+</table>
 
-- 🌱 Currently growing in Flutter, Laravel, Blockchain, Unity, & AI Development
-- 💼 I build production-ready apps, smart contract demos, and interactive games
-- 💬 Always happy to chat about mobile/web, blockchain, or game dev topics!
+<br>
 
----
+## 📌 Featured Projects
 
-## 🧰 Highlight Project Portfolio
+| Project | Stack |
+|---------|-------|
+| [AI-Demo-SEA](https://github.com/Iman874/AI-Demo-SEA) | Flutter · Laravel · Gemini AI |
+| [game-mobile-gredelos](https://github.com/Iman874/game-mobile-gredelos) | Unity · C# · 2D Mobile Game |
+| [Uu_Chain](https://github.com/Iman874/Uu_Chain) | Flutter · Solidity · Hardhat |
+| [ai-agent-hybrid](https://github.com/Iman874/ai-agent-hybrid) | Python · Multi-Provider AI |
+| [MyWallet](https://github.com/Iman874/MyWallet) | Flutter · Dart |
+| [Sistem Sensus Harian RS](https://github.com/Iman874/Project-Laravel-Sistem-Sensus-Harian-RS) | Laravel · Blade · Chart JS |
 
-### **AI-Demo-SEA (Laravel + Flutter + AI Workflow)**
+<br>
 
-SEA App adalah demonstrasi lengkap Smart Education Assistant (SEA) yang menggabungkan Laravel 11, Flutter, dan layanan AI berbasis Gemini. Proyek ini menampilkan alur belajar modern dengan kelas, materi, kuis, diskusi, serta modul AI seperti student chat, check understanding, dan AI-generated groups/questions. Dirancang untuk arsitektur local-first dengan kontrak API stabil yang digunakan oleh Flutter dan web. Dibuat sebagai produk uji coba project yang di bimbing oleh Prof. Dr.. Muhammad Anwar, S.Pd., M.T.
+## 🌐 Connect
 
-### **Game Mobile Grodelos (Unity 2D Mobile)**
-Gredelos (mobile-game-gredelos) adalah proyek game mobile edukasi berbasis Unity. Project ini berfokus pada kumpulan level mekanisme permainan (drag, swipe, click) dengan audio VO, UI interaktif, dan manajemen progress pemain. Dibuat sebagai produk utama dalam PKM RSH UNP Juli-Oktober 2025
+[![Email](https://img.shields.io/badge/Email-rosuliman907%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rosuliman907@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rosul--iman-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosul-iman-938a97200)
+[![Website](https://img.shields.io/badge/Web-rosuliman.my.id-000000?style=flat&logo=vercel&logoColor=white)](https://rosuliman.my.id)
+[![Instagram](https://img.shields.io/badge/Instagram-@rosul.iman-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/rosul.iman/)
 
-### **MPLJJ25‑138‑KEL‑1 (Flutter + Laravel + RoboFlow)**
-Proyek kelas yang menggabungkan Flutter, Laravel, dan Flask-Roboflow untuk sistem pelaporan kerusakan sekolah berbasis AI. Mencakup aplikasi mobile, backend API, dan model AI klasifikasi gambar.
+<br>
 
-### **Sistem Sensus Harian RS (Laravel Web App)**
-Aplikasi berbasis Laravel untuk mengelola data harian pasien rumah sakit. Mendukung role: perawat, petugas indikator, dan kepala instalasi. Fitur utama meliputi pendaftaran pasien, manajemen bangsal/tempat tidur, rekap indikator kinerja seperti BOR, AvLOS, TOI, BTO, serta grafik Barber‑Johnson untuk analisis visual.
+> *"Build software like you build a story — with meaning and creativity in every line."*
 
-### **Uu_Chain (Blockchain + Flutter Demo)**
-Sistem pencatatan Undang‑Undang (UU) berbasis blockchain lokal menggunakan Hardhat dan Flutter. Admin bisa mencatat UU baru (#judul, isi, tanggal, hash), pengguna dapat memverifikasi PDF UU sesuai hash jaringan. Cocok sebagai demo edukasi smart contract lokal.
-
----
-
-## 📊 Statistik Bahasa Pemrograman
-
-- Laravel / PHP
-- JavaScript
-- Dart / Flutter
-- C#
-- C++ / CMake
-- Blade Templating
-- Unity
-
----
-
-## 🌐 Connect with Me
-
-- ✉️ Email: rosuliman907@gmail.com  
-- 🔗 LinkedIn: www.linkedin.com/in/rosul-iman-938a97200
-
----
-
-## 🎯 Fun Fact
-
-> Coding is a problem, life is a problem. We have to solve problems.
-
----
-
-## 💡 Teknologi & Tools Pilihan
-
-- **Backend & Web:** Laravel, PHP, Blade, Tailwind, Chart JS
-- **Mobile & Frontend:** Flutter, Dart
-- **Game Development:** Unity 2D, C#
-- **CI/CD / Versioning:** Git, GitHub Actions, PHP Unit, Vite
-- **Blockchain & Smart Contract:** Solidity, Hardhat, ethers.js
-- **Artificial Intelligence:** NLP, model terapan pada pendidikan, AI helper workflow, image classification (Roboflow), conversational agent
-- **Sistem Terdistribusi:** API design, integrasi multi-platform (Flutter–Laravel–React)
-
-> 🔥 “Build software like you build a story—with meaning and creativity in every line.”
+<sub>📊 Widgets by [OSSInsight](https://ossinsight.io/)</sub>
