@@ -57,7 +57,6 @@
 | [MyWallet](https://github.com/Iman874/MyWallet) | Flutter · Dart |
 | [ai-agent-hybrid](https://github.com/Iman874/ai-agent-hybrid) | Python · Multi-Provider AI |
 | [Multi-Provider-AI-Hub](https://github.com/Iman874/Multi-Provider-AI-Hub) | Python · Multi-AI Provider |
-| [CliGo](https://github.com/Iman874/CliGo) | GDScript · Gemastik XVIII |
 | [CRUD-Golang](https://github.com/Iman874/CRUD-Golang) | Go · REST API |
 
 <br>
