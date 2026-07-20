@@ -54,11 +54,11 @@
 | Project | Stack |
 |---------|-------|
 | [AI-Demo-SEA](https://github.com/Iman874/AI-Demo-SEA) | Flutter · Laravel · Gemini AI |
-| [game-mobile-gredelos](https://github.com/Iman874/game-mobile-gredelos) | Unity · C# · 2D Mobile Game |
-| [Uu_Chain](https://github.com/Iman874/Uu_Chain) | Flutter · Solidity · Hardhat |
-| [ai-agent-hybrid](https://github.com/Iman874/ai-agent-hybrid) | Python · Multi-Provider AI |
 | [MyWallet](https://github.com/Iman874/MyWallet) | Flutter · Dart |
-| [Sistem Sensus Harian RS](https://github.com/Iman874/Project-Laravel-Sistem-Sensus-Harian-RS) | Laravel · Blade · Chart JS |
+| [ai-agent-hybrid](https://github.com/Iman874/ai-agent-hybrid) | Python · Multi-Provider AI |
+| [antrian-photobox](https://github.com/Iman874/antrian-photobox) | HTML · Queue System |
+| [CliGo](https://github.com/Iman874/CliGo) | GDScript · Gemastik XVIII |
+| [CRUD-Golang](https://github.com/Iman874/CRUD-Golang) | Go · REST API |
 
 <br>
 
