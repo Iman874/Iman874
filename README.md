@@ -53,7 +53,7 @@
 
 | Project | Stack |
 |---------|-------|
-| [MonoBox (Monoframe)](https://github.com/Iman874/monobox-showcase) | Flutter · Laravel · Go · React · Node.js |
+| [MonoBox (Monoframe)](https://github.com/Iman874/monoframe-showcase) | Flutter · Laravel · Go · React · Node.js |
 | [DCSG Bahasa Indonesia](https://github.com/Iman874/dcsg-tugas-akhir) | Python · gensim · PyTorch · NLP |
 | [AI-Demo-SEA](https://github.com/Iman874/AI-Demo-SEA) | Flutter · Laravel · Gemini AI |
 | [MyWallet](https://github.com/Iman874/MyWallet) | Flutter · Dart |
